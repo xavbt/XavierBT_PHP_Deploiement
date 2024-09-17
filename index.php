@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World!";
+echo "Hihihi mon serveur fonctionne Xavier B.T";
